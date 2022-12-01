@@ -1,4 +1,4 @@
-# Apuntes-entorns
+# Entorns
 ![git-github](https://user-images.githubusercontent.com/114684316/205066498-ebbbe329-a341-49b5-a1ab-36ff80db8735.png)
 ## Crear un repositorio:
 Creamos un directorio de trabajo, una carpeta, con un documento de texto. Para que git comienze a hacer un seguimiento de nuestro trabjo, debemos utilizar el comando **git init**.
